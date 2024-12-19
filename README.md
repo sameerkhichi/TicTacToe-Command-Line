@@ -1,1 +1,1 @@
-A simple TicTacToe game coded to run in the command line with options of playing against a computer or another human.
+A simple TicTacToe game coded to run in the command line with options of playing against a computer or another human. This program was designed as part of a project for a university course, and I transferred it to a public repository.
